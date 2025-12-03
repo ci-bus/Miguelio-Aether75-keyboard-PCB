@@ -13,5 +13,8 @@ Mechanical keyboard 75% Bluetooth
 - Encoder
 - RGB Underglow LEDs
 
+## PCB
 ![Mechanical keyboard PCB 75% Aether](https://github.com/ci-bus/Miguelio-Aether75-keyboard-PCB/blob/master/images/pcb.png)
 
+## ZMK Studio
+![Mechanical keyboard PCB 75% Aether](https://github.com/ci-bus/Miguelio-Aether75-keyboard-PCB/blob/master/images/studio.png)
