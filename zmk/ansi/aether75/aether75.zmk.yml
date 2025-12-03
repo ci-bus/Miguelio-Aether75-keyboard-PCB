@@ -1,0 +1,13 @@
+file_format: "1"
+id: aether75
+name: aether75
+type: board
+arch: arm
+features:
+  - keys
+  - underglow
+  - studio
+outputs:
+  - usb
+  - ble
+url: https://miguelio.com
